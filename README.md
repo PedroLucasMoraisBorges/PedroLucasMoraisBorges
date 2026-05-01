@@ -19,9 +19,8 @@
 
 ## 👨‍💻 Sobre mim
 
-- 🎓 Graduando em **Sistemas de Informação** na UNIFAP-CE
+- 🎓 Bacharel em **Sistemas de Informação** na UNIFAP-CE
 - 🚀 Desenvolvedor **Full-Stack** com foco em TypeScript, Python e Java
-- 🔭 Atualmente trabalhando em **[kariri-shop-reimagined](https://github.com/PedroLucasMoraisBorges/kariri-shop-reimagined)** — e-commerce moderno com TypeScript
 - 🌱 Aprofundando conhecimentos em **arquitetura de software** e **boas práticas de API REST**
 - 💡 Acredito que código limpo e bem documentado é tão importante quanto código que funciona
 
@@ -53,37 +52,11 @@
 
 ---
 
-## 🚀 Projetos em Destaque
-
-<div align="center">
-
-[![labAssist](https://github-readme-stats.vercel.app/api/pin/?username=PedroLucasMoraisBorges&repo=labAssist&theme=tokyonight&hide_border=true)](https://github.com/PedroLucasMoraisBorges/labAssist)
-[![SportixApi](https://github-readme-stats.vercel.app/api/pin/?username=PedroLucasMoraisBorges&repo=SportixApi&theme=tokyonight&hide_border=true)](https://github.com/PedroLucasMoraisBorges/SportixApi)
-[![AdotPets](https://github-readme-stats.vercel.app/api/pin/?username=PedroLucasMoraisBorges&repo=AdotPets&theme=tokyonight&hide_border=true)](https://github.com/PedroLucasMoraisBorges/AdotPets)
-[![TrackFlow](https://github-readme-stats.vercel.app/api/pin/?username=PedroLucasMoraisBorges&repo=TrackFlow&theme=tokyonight&hide_border=true)](https://github.com/PedroLucasMoraisBorges/TrackFlow)
-
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-![Pedro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PedroLucasMoraisBorges&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PedroLucasMoraisBorges&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLucasMoraisBorges&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
 </div>
 
----
-
-<div align="center">
-
-*"First, solve the problem. Then, write the code."* — John Johnson
-
-[![Profile Views](https://visitcount.itsvg.in/api?id=PedroLucasMoraisBorges&icon=6&color=6)](https://visitcount.itsvg.in)
-
-</div>
